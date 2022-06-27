@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">RondiUts</string>
+    <string name="Judul">Halaman Pemesanan</string>
+    <string name="tgl">Tanggal Transaksi</string>
+    <string name="nama_pembeli">Nama Pembeli</string>
+    <string name="makanan">Makanan :</string>
+    <string name="hasil_pesanan">Nama Pesanan</string>
+    <string name="Harga">Harga</string>
+    <string name="makanan1">Honey Garlic Chicken</string>
+    <string name="makanan2">Beef Burger</string>
+    <string name="makanan3">Reguler Fries</string>
+    <string name="qty">Qty</string>
+    <string name="harga_makanan1">(IDR 35000)</string>
+    <string name="harga_makanan2">(IDR 30000)</string>
+    <string name="harga_makanan3">(IDR 20000)</string>
+
+    <string name="harga_minuman1">(IDR 10000)</string>
+    <string name="harga_minuman2">(IDR 18000)</string>
+    <string name="harga_minuman3">(IDR 15000)</string>
+
+
+    <string name="minuman">Minuman</string>
+    <string name="minuman1">Ice Cream</string>
+    <string name="minuman2">Flurry Oreo</string>
+    <string name="minuman3">Fanta Float</string>
+    <string name="subtotal">Sub Total</string>
+    <string name="pajak">Pajak 10%</string>
+    <string name="total">Total</string>
+    <string name="tunai">Tunai</string>
+    <string name="kembalian">Kembalian</string>
+    <string name="tunai_hint">Jumlah yang di bayarkan</string>
+    <string name="struk">Cetak Struk</string>
+
+    <string name="struk_pembayaran"><u>STRUK PEMBAYARAN</u></string>
+    <string name="garis">==========================</string>
+    <string name="terima_kasih">Terima Kasih \n Sudah mengunjungi PT. ABC Kami</string>
+
+
+
+
+</resources>
